@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "aboutMe.html",
+    "href": "aboutMe.html",
+    "title": "About",
+    "section": "",
+    "text": "This is the contents of the about page for my blog."
+  },
+  {
+    "objectID": "aboutMe.html#about-this-blog",
+    "href": "aboutMe.html#about-this-blog",
+    "title": "About",
+    "section": "",
+    "text": "This is the contents of the about page for my blog."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yi-Hsin Lu",
+    "section": "",
+    "text": "\\(\\qquad\\) I am Sam Lu, a data scientist, believe the data can talk."
+  },
+  {
+    "objectID": "index.html#technical-experiences-4",
+    "href": "index.html#technical-experiences-4",
+    "title": "Yi-Hsin Lu",
+    "section": " TECHNICAL EXPERIENCES (4)",
+    "text": "TECHNICAL EXPERIENCES (4)\n\n Data Visualization for Jazz Musicians (Thesis)\n\nAdviser: Prof. Chen-Hai Andy Tsao\nDate: 06/2021 - 06/2023\nLocation: National Dong-Hwa University\nLinks: PDF, Maps for Jazz Musicians\nSummary\n\nDisplayed the visualization as a map.\nUtilized three primary colors on multi-value variables.\nIllustrate the relationship between musicians by their distance and color based on variables, such as instruments, genres, etc.\nUtilized PCA (Principal Component Analysis) and t-SNE (t-distributed Stochastic Neighbor Embedding) to generate the map from the data matrix.\nThe map provides richer insights compared to network graphs, exemplified by the acclaimed visualization at Linked Jazz.\n\n\n\n\n Volleyball Matches/Players Visualization (Interest-Driven Project)\n\nDate: 10/2023 - Present\nLinks: Maps Webpage\nSummary\n\nDeveloped a map visualization for displaying player data during volleyball matches.\nImplemented histograms and tables to effectively illustrate match information between teams.\nThe map highlights relationships and statistics among players in different positions.\nStreamlined information accessibility, saving players valuable time by eliminating the need to navigate through extensive data tables.\n\n\n\n\n Music Feature (Statistical Machine Learning)\n\nAdviser: Prof. Chen-Hai Andy Tsao\nDate: 09/2022 - 01/2023\nLocation: National Dong-Hwa University\nLinks: PDF\nSummary\n\nApplied statistical machine learning techniques to filter audio genres based on their features.\nAchieved a 70% accuracy using the random forest model.\n\n\n\n\n S&P Global Rating Xpress Dataset (Dataset Management)\n\nPI: Prof. Chih-Kang Chu\nDate: 08/2022 - 01/2023\nLocation: National Dong-Hwa University\nSummary\n\nUtilized PostgreSQL to create a connection with the online database, facilitating data updates in local storage.\nDeveloped a data transformation function using R, ensuring data accuracy and cleanliness."
+  },
+  {
+    "objectID": "index.html#education-2",
+    "href": "index.html#education-2",
+    "title": "Yi-Hsin Lu",
+    "section": " EDUCATION (2)",
+    "text": "EDUCATION (2)\n\n Master, Applied Mathethatics, National Dong Hwa University.\n\nThesis Title: Visualization for Jazz Musicians\nAdviser: Prof. Chen-Hai Andy Tsao\nDate: 02/2021 - 06/2023\n\n\n\n Bachelor, Statistcal Science, National Dong Hwa University.\n\nDate: 09/2014 - 09/2019"
+  }
+]
