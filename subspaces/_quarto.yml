@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Yi-Hsin"
+  navbar:
+    left:
+      - href: https://yhsamlu.github.io/yhsamlu.io/main/index.html
+        text: Home
+      - text: About Me
+        menu:
+          - href: Contact.qmd
+            text: Contact Me
+          - href: https://github.com/YiHsinLu
+            text: Github
+          - href: diary.qmd
+            text: Working Diary
+
+      - text: R tutorial
+        menu:
+          - href: Rtutorial.qmd
+            text: 0 Basic R
+          - href: 1_data_processing.html
+            text: 1 Data Processing
+          - href: Visual.qmd
+            text: 2 Data Visualization
+
+
+
+
+format:
+  html:
+    theme:
+      light: mode_light.scss
+      dark: mode_dark.scss
+    css: styles.css
+    toc: true
+
+editor: visual
+
