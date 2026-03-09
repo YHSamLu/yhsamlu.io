@@ -81,12 +81,12 @@ body{
 }
 
 .navbar a:hover{
-    color: #f0c029;
+    color: #ffb2ea;
     font-size: 50px;
 }
 
 .navbar a.active{
-    color: #f0c029;
+    color: #ffb2ea;
 }
 
 .navbar a::after{
@@ -121,7 +121,7 @@ body{
     font-size: 56px;
     font-weight: 700;
     line-height: 1.2;
-    color: #f0c029;
+    color: #ffb2ea;
 }
 
 .home-contact h1::before{
@@ -140,7 +140,7 @@ body{
     position: relative;
     font-size: 32px;
     font-weight: 700;
-    color: #f0c029;
+    color: #ffb2ea;
 }
 
 .home-contact h3::before{
@@ -203,8 +203,8 @@ body{
     align-items: center;
     width: 150px;
     height: 100%;
-    background: #f0c029;
-    border: 2px solid #f0c029;
+    background: #ffb2ea;
+    border: 2px solid #ffb2ea;
     border-radius: 8px;
     font-size: 19px;
     color: #080818;
@@ -217,12 +217,12 @@ body{
 }
 
 .btn-box a:hover{
-    color: #f0c029;
+    color: #ffb2ea;
 }
 
 .btn-box a:nth-child(2){
     background: transparent;
-    color: #f0c029;
+    color: #ffb2ea;
 }
 
 .btn-box a:nth-child(2):hover{
@@ -230,7 +230,7 @@ body{
 }
 
 .btn-box a:nth-child(2)::before{
-    background: #f0c029;
+    background: #ffb2ea;
 }
 
 .btn-box a::before {
@@ -279,10 +279,10 @@ body{
     width: 40px;
     height: 40px;
     background: transparent;
-    border: 2px solid #f0c029;
+    border: 2px solid #ffb2ea;
     border-radius: 50%;
     font-size: 20px;
-    color: #f0c029;
+    color: #ffb2ea;
     text-decoration: none;
     z-index: 1;
     overflow: hidden;
@@ -300,7 +300,7 @@ body{
     left: 0;
     width: 0;
     height: 100%;
-    background: #f0c029;
+    background: #ffb2ea;
     z-index: -1;
     transition: .5s;
 }
@@ -341,11 +341,12 @@ body{
 
 img {
     position:fixed;
-    left: 50%;
-    max-height: 100%;
-    max-width: 50%;
+    left: 63%;
+    top: 25%;
+    max-height: 60%;
+    max-width: 60%;
     z-index: -3;
-    filter:  drop-shadow(0 0 30px #f0c029);
+    filter:  drop-shadow(0 0 30px #ffb2ea);
 }
 
 
